@@ -1,0 +1,41 @@
+/* stylesheet */
+
+* {
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    background-color: blanchedalmond;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+li {
+    background-color: antiquewhite;
+    text-align: inherit; 
+}
+
+.title {
+    background-color: olivedrab;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.list {
+    background-color: rgb(76, 97, 102);
+    font-size: large;
+    text-align:left ;
+
+}
+
+.section {
+    font-size: x-large;
+    background-color: rgb(56, 104, 167);
+    text-align: center;
+
+}
+
+.disclaimer {
+    font-size: xx-small;
+
+}
